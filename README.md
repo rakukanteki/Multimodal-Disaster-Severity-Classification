@@ -4,24 +4,27 @@
 
 1. [Update](#update)  
 2. [Abstract](#abstract)  
-3. [Installation](#installation)  
-4. [About the Repository (A Concise Overview)](#about-the-repository-a-concise-overview)  
-5. [Acknowledgements](#acknowledgements)  
-6. [License and Citation](#license-and-citation)  
-7. [Contact Information](#contact-information)
+3. [Classification Performance of ImpactNet](#classification-performance-of-impactnet)
+4. [Installation](#installation)  
+5. [About the Repository (A Concise Overview)](#about-the-repository-a-concise-overview)  
+6. [Acknowledgements](#acknowledgements)  
+7. [License and Citation](#license-and-citation)  
+8. [Contact Information](#contact-information)
 
 
-## UPDATE:
+## 🗞️UPDATE:
 
-## ABSTRACT:
+## 🧠ABSTRACT:
 
-## INSTALLATION:
+## 🔥Classification Performance of ImpactNet:
 
-## ABOUT THE REPOSITORY(a concise overview):
+## ⚒️INSTALLATION:
 
-## ACKNOWLEDGEMENTS:
+## 📒ABOUT THE REPOSITORY(a concise overview):
 
-## LICENSE AND CITATION:
+## ✨ACKNOWLEDGEMENTS:
+
+## 💞CITATION:
 If you find our paper useful in your research, please conside citing our paper at:
 ```
 @article{ImpactNet2025multimodal,
@@ -32,7 +35,7 @@ If you find our paper useful in your research, please conside citing our paper a
 }
 ```
 <hr>
-<hr>
-<hr>
 
+
+### Contact Information:
 If you have any question, feel free to email [Kh. Radwan](mailto:radwankhondokar20@gmail.com), [Golam Rabbani](mailto:shaikhgolamrabbani@gmail.com), [Md. Fahim](mailto:fahimece55@gmail.com), and [Aniruddha Saha](mailto:aniruddha.eng.bd@gmail.com)
